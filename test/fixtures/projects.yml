@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  manager: MyString
+  planned_budget: 9.99
+  actual_budget: 9.99
+  theme: MyString
+  start_date: 2013-10-16
+  end_date: 2013-10-16
+  extensions: 1
+
+two:
+  name: MyString
+  description: MyText
+  manager: MyString
+  planned_budget: 9.99
+  actual_budget: 9.99
+  theme: MyString
+  start_date: 2013-10-16
+  end_date: 2013-10-16
+  extensions: 1
