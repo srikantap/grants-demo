@@ -3,7 +3,6 @@ class CreateProjects < ActiveRecord::Migration
     create_table :projects do |t|
       t.string :name
       t.text :description
-      t.string :partner
       t.string :manager
       t.decimal :planned_budget, precision: 8, scale:2
       t.decimal :actual_budget, precision: 8, scale:2
